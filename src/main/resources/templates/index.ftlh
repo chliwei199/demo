@@ -7,7 +7,7 @@
     </head>
 
     <body>
-        <a href="cities">Show cities demo</a>
+        <a href="cities">Show cities</a>
     </body>
 
 </html>
