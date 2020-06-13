@@ -54,4 +54,8 @@ public class CityServiceTest {
 			assertEquals(populationList.get(Math.toIntExact(element.getId()-1)).intValue(),element.getPopulation());
 		}
 	}
+    @Test
+	public void testfailed() {
+		fail("Exception not thrown");
+	}
 }
